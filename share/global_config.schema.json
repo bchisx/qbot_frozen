@@ -103,6 +103,7 @@
 				"enum": [
 					"admin",
 					"arch",
+          "arch_status",
 					"bottom",
 					"colors",
 					"figlet",
